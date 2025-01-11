@@ -1,1 +1,1 @@
-web: gunicorn oracademy.wsgi
+web: gunicorn smartstudy.wsgi
